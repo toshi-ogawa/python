@@ -4,7 +4,6 @@ import csv
 from datetime import datetime
 import sys
 
-
 data_list = []
 
 def on_message(client, userdata, message):
